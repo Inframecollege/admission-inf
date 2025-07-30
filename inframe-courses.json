@@ -1,0 +1,69 @@
+[
+  {
+    "category": "Engineering",
+    "courses": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science Engineering",
+      "Electronics & Communication Engineering"
+    ]
+  },
+  {
+    "category": "Management",
+    "courses": [
+      "Business Administration (BBA)",
+      "Master of Business Administration (MBA)",
+      "Hospitality Management",
+      "Retail Management"
+    ]
+  },
+  {
+    "category": "Science",
+    "courses": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biotechnology",
+      "Microbiology"
+    ]
+  },
+  {
+    "category": "Arts",
+    "courses": [
+      "English Literature",
+      "History",
+      "Political Science",
+      "Psychology",
+      "Sociology"
+    ]
+  },
+  {
+    "category": "Computer Applications",
+    "courses": [
+      "Bachelor of Computer Applications (BCA)",
+      "Master of Computer Applications (MCA)"
+    ]
+  },
+  {
+    "category": "Law",
+    "courses": [
+      "LLB",
+      "LLM"
+    ]
+  },
+  {
+    "category": "Pharmacy",
+    "courses": [
+      "Bachelor of Pharmacy (B.Pharm)",
+      "Master of Pharmacy (M.Pharm)"
+    ]
+  },
+  {
+    "category": "Education",
+    "courses": [
+      "Bachelor of Education (B.Ed)",
+      "Master of Education (M.Ed)"
+    ]
+  }
+]
